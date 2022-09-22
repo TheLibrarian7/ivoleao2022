@@ -1,0 +1,54 @@
+body{
+    
+}
+#brama{
+
+    width: 100%;
+}
+.principal{
+    background: #555555;
+    padding: 30px;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align:center; 
+    background: #555555;
+}
+
+p{
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+
+em strong{
+    color: rgb(0, 0, 0);
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    background-color: #555555;
+    padding: 20px;
+}
+
+h2{
+    
+}
+ul{
+    display:inline-block;
+    vertical-align:top;
+    width: 20%;
+    margin-right:15%;
+}
+.ilustraçãoimg{
+    width: 50%;
+}
